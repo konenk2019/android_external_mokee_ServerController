@@ -1215,6 +1215,12 @@ $hardware_info = array(
                      'battery' => '2900 mAh',
                      'display' => '5.0 inch, 1920x1080 pixel(441ppi)',
                      'cpuarch' => 'ARM'),
+    'h3gduoschn' => array('cpu' => 'Qualcomm® Snapdragon™ 800',
+                     'ram' => '3GB',
+                     'rom' => '16GB/32GB',
+                     'battery' => '3200 mAh',
+                     'display' => '5.7 inch, 1920x1080 pixel(386ppi)',
+                     'cpuarch' => 'ARM'),
 );
 
 foreach ($devices_info as $k => $val) {
